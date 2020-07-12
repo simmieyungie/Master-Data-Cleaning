@@ -13,7 +13,7 @@ Of course, data comes in different formats. If you however, practice with as man
 Some of the datasets are excel sheets containing the cleaned version and the dirty version. The scripts to clean the data are available in Pyhon and R. If you want to clean the datasets using other languages feel free to do that. 
 
 ### Pull Request
-We aim to populate this repository with as many cleaning projects as possible. If you have datasets you have previously cleaned, you're welcome to send a pull request. But ensure the code works and is well documented. A PR of the dataset and the script should be sent and it would merged once properly reviewed. **You will be added to the contributors list once your PR has been merged**.
+We aim to populate this repository with as many cleaning projects as possible. If you have datasets you have previously cleaned, you're welcome to send a pull request. But ensure the code works and is well documented (In case you decide to leave a script as a guide). A PR of the dataset and the script should be sent and it would merged once properly reviewed. **You will be added to the contributors list once your PR has been merged**.
 
 ## Contributors List
 -[Foresight BI](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)
