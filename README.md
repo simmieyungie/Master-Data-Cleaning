@@ -16,5 +16,10 @@ Some of the datasets are excel sheets containing the cleaned version and the dir
 We aim to populate this repository with as many cleaning projects as possible. If you have datasets you have previously cleaned, you're welcome to send a pull request. But ensure the code works and is well documented. A PR of the dataset and the script should be sent and it would merged once properly reviewed. **You will be added to the contributors list once your PR has been merged**.
 
 ## Contributors List
-- [Ogungbe Michael](https://www.linkedin.com/in/micheal-ogungbe-3583b919a/)
-- Simileoluwa Kafaru
+-[Foresight BI](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)
+
+### Contributors submission guide
+- Make sure your dataset is in a folder (Alongside a demo script/image/description of the final file)
+- Edit the Contributors List in the Readme to Include your social media account/LinkedIn account incase anyone tries to reach you (Optional)
+
+
