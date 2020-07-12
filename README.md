@@ -19,7 +19,7 @@ We aim to populate this repository with as many cleaning projects as possible. I
 -[Foresight BI](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)
 
 ### Contributors submission guide
-- Make sure your dataset is in a folder (Alongside a demo script/image/description of the final file)
+- Make sure your dataset is in a folder (Alongside a demo script/image/description to help guide what the cleaned data looks like)
 - Edit the Contributors List in the Readme to Include your social media account/LinkedIn account incase anyone tries to reach you (Optional)
 
 
